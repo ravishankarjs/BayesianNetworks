@@ -1,0 +1,1 @@
+Developed and analyzed Bayesian network structures to model complex relationships in real-world data. Applied Bayesian learning algorithms, including parameter estimation and d-separation tests, using R programming. Conducted exploratory data analysis and implemented structure learning for probabilistic reasoning in maritime and traffic accident datasets
